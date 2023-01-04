@@ -1,0 +1,1 @@
+Data Source=HAMZAONATB3DD;Initial Catalog=EczaDepoOtomasyonu;Integrated Security=True;

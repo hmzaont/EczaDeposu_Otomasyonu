@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EczaDeposu_Otomasyonu", "EczaDeposu_Otomasyonu\EczaDeposu_Otomasyonu.csproj", "{B5A90CC8-7558-489C-96BD-F1857706427F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EczaDeposu_Setup", "EczaDeposu_Setup\EczaDeposu_Setup.vdproj", "{980ABCD3-2D7C-45AB-BC27-39B2F81DF14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A90CC8-7558-489C-96BD-F1857706427F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A90CC8-7558-489C-96BD-F1857706427F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A90CC8-7558-489C-96BD-F1857706427F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A90CC8-7558-489C-96BD-F1857706427F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980ABCD3-2D7C-45AB-BC27-39B2F81DF14A}.Debug|Any CPU.ActiveCfg = Debug
+		{980ABCD3-2D7C-45AB-BC27-39B2F81DF14A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B58686D-142A-4DD2-ACD3-70610EF5D184}
+	EndGlobalSection
+EndGlobal
